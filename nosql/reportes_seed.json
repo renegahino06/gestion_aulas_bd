@@ -1,0 +1,27 @@
+[
+  {
+    "reporte_id": "REP-0001",
+    "docente_id": 1,
+    "aula_id": 101,
+    "fecha_hora": "2026-03-15T09:45:00Z",
+    "descripcion": "La toma de corriente cercana al pizarrón no funciona.",
+    "estado": "abierto",
+    "prioridad": "alta",
+    "adjuntos": []
+  },
+  {
+    "reporte_id": "REP-0002",
+    "docente_id": 2,
+    "aula_id": 201,
+    "fecha_hora": "2026-03-16T11:50:00Z",
+    "descripcion": "Un equipo de cómputo no enciende.",
+    "estado": "en_proceso",
+    "prioridad": "media",
+    "adjuntos": [
+      {
+        "tipo": "imagen",
+        "url": "https://ejemplo.com/reporte_lab_201_pc.png"
+      }
+    ]
+  }
+]
