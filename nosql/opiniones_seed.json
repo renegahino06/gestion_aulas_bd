@@ -1,0 +1,20 @@
+[
+  {
+    "opinion_id": "OPI-0001",
+    "docente_id": 1,
+    "aula_id": 101,
+    "fecha_hora": "2026-03-15T09:40:00Z",
+    "rating": 5,
+    "comentario": "Aula en buen estado, proyector y audio funcionando correctamente.",
+    "tags": ["proyector", "audio"]
+  },
+  {
+    "opinion_id": "OPI-0002",
+    "docente_id": 2,
+    "aula_id": 201,
+    "fecha_hora": "2026-03-16T11:40:00Z",
+    "rating": 3,
+    "comentario": "El laboratorio estaba limpio, pero faltaban dos equipos.",
+    "tags": ["equipos", "laboratorio"]
+  }
+]
